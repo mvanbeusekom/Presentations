@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+/packages
+/Tranquil HTTP/bin
+/Tranquil HTTP/obj
+*.user
+*.nupkg
+/TranquilHTTP/bin
+/TranquilHTTP/obj/Debug
+/TranquilHTTP/obj/Release
